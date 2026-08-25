@@ -109,6 +109,9 @@ This project focuses on analyzing Indian Premier League (IPL) match data using P
 The analysis provides useful insights into team performance, player performance, toss decisions, and IPL match outcomes. Data analysis, visualization, and statistical techniques helped identify meaningful patterns and trends in the matches.
 
 
+
+
+
 ## Customer Segmentation & Cohort Analysis using RFM
 
 ## 📌 Project Overview
