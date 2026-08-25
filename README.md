@@ -112,7 +112,7 @@ The analysis provides useful insights into team performance, player performance,
 
 
 
-## Customer Segmentation & Cohort Analysis using RFM
+# RFM & Cohort Analysis
 
 ## 📌 Project Overview
 
