@@ -178,3 +178,99 @@ The analysis can help businesses to:
 ## 🏁 Conclusion
 
 This project demonstrates how **RFM Analysis and Cohort Analysis** can be used to understand customer behavior, segment customers, and evaluate retention patterns. The insights generated from the analysis can support businesses in developing effective customer engagement and retention strategies.
+
+
+
+
+# ✈️ Travel Insurance Purchase Prediction
+
+## 📌 Project Overview
+
+This project focuses on predicting whether a customer is likely to purchase travel insurance based on their demographic, financial, health, and travel-related information.
+
+The project follows a complete Data Science and Machine Learning workflow, including data preprocessing, exploratory data analysis, data visualization, model building, model evaluation, and hyperparameter tuning.
+
+## 🎯 Objective
+
+The main objective of this project is to develop a Machine Learning classification model that can predict whether a customer will purchase travel insurance.
+
+## 📊 Dataset
+
+The dataset contains customer-related information such as:
+
+- Age
+- Employment Type
+- Graduate or Not
+- Annual Income
+- Family Members
+- Chronic Diseases
+- Frequent Flyer
+- Ever Travelled Abroad
+- Travel Insurance
+
+The target variable is **TravelInsurance**.
+
+## 🔍 Exploratory Data Analysis
+
+Exploratory Data Analysis was performed to understand the patterns and relationships within the dataset.
+
+The analysis includes:
+
+- Age distribution
+- Chronic disease distribution
+- Frequent flyer status
+- Travel insurance distribution
+- Customer demographic analysis
+- Relationship between customer features and travel insurance purchase
+
+Various visualizations were created using **Matplotlib** and **Seaborn**.
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+## 🤖 Machine Learning
+
+Classification algorithms were used to predict travel insurance purchase.
+
+The **Random Forest Classifier** was implemented and optimized using **GridSearchCV** for hyperparameter tuning.
+
+## ⚙️ Model Evaluation
+
+The model performance was evaluated using:
+
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+**GridSearchCV** was used to identify the best hyperparameters for the Random Forest Classifier.
+
+## 🔄 Project Workflow
+
+1. Data Loading
+2. Data Understanding
+3. Data Cleaning
+4. Exploratory Data Analysis
+5. Data Visualization
+6. Feature Encoding
+7. Train-Test Split
+8. Model Building
+9. Model Evaluation
+10. Hyperparameter Tuning
+11. Final Model Selection
+
+## 📈 Results
+
+The Random Forest Classifier was evaluated before and after hyperparameter tuning using GridSearchCV. The tuned model was used to improve the overall classification performance.
+
+## ✅ Conclusion
+
+This project demonstrates the application of Machine Learning techniques to predict customer interest in travel insurance.
+
+The analysis provides insights into customer characteristics and helps understand the factors that may influence travel insurance purchase decisions.
